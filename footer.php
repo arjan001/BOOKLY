@@ -1,6 +1,5 @@
 <section class="footer">
 
-
    <div class="box-container">
 
       <div class="box">
@@ -23,8 +22,8 @@
       <div class="box">
          <h3>contact info</h3>
          <a href="https://api.whatsapp.com/send?phone=+25498325459&text=Hello,moreinformation!" target="_blank"> <i class="fa-brands fa-whatsapp"></i> Whatsapp</a>
-         <a href="tel:+254798325458"><i class="fas fa-phone"></i> +254798325458</a>
-         <a href="mailto:arjannky@gmail.com" target="_blank"> <i class="fas fa-envelope"></i> arjannky@gmail.com</a>
+         <a href="tel:+254798325458"><i class="fas fa-phone"></i> +254708187634</a>
+         <a href="mailto:arjannky@gmail.com" target="_blank"> <i class="fas fa-envelope"></i> iris@gmail.com</a>
          <a href="https://goo.gl/maps/FrJAmxTj2CUwrxYy6" target="_blank"><i class="fas fa-map-marker-alt"></i> Nairobi, kenya - 400104 </a>
       </div>
 
@@ -38,7 +37,7 @@
 
    </div>
 
-   <p class="credit"> &copy; copyright @ <?php echo date('Y'); ?> by <span>EDWIN NYONGESA</span> </p>
+   <p class="credit"> &copy; copyright @ <?php echo date('Y'); ?> by <span>IRIS</span> </p>
 
    <!--========== SCROLL TO TOP BUTTON  ==========-->
    <a href="#" class="scrollup" id="scroll-up" data-tilt data-tilt-glare>
